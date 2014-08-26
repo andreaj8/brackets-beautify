@@ -274,7 +274,7 @@ define(function (require, exports, module) {
     };
 
     var macCommand = {
-        key: "Cmd-Shift-L",
+        key: "Cmd-Alt-L",
         platform: "mac"
     };
 
